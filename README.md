@@ -4,7 +4,7 @@ An AI-powered system to detect fraudulent job postings and protect job seekers f
 
 ## 🚀 Live Demo
 
-**Try it now:** [Job Fraud Detector](https://your-app-name.streamlit.app)
+**Try it now:** [Job Fraud Detector]([https://your-app-name.streamlit.app](https://job-fraud-detector2.streamlit.app/))
 
 ## 📋 Features
 
